@@ -28,7 +28,7 @@ buildings.append(building1)
 buildings.append(building2)
 buildings.append(building3)
 
-print("총 {}대의 매물이 있습니다.".format(len(buildings)))
+print("총 {}대의 매물이 있습니다.".format(len(buildingswww)))
 
 for building in buildings:
     building.show_detail()
